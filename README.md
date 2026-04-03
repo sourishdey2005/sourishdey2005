@@ -1,3 +1,10 @@
+<!-- 🔥 Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=SOURISH+DEY;Data+Scientist+%7C+Quant+Finance+%7C+Cloud+Engineer;Building+AI+%2B+Finance+%2B+Scalable+Systems;Always+Learning+%F0%9F%9A%80" />
+</p>
+
+---
+
 # 💫 About Me:
 👋 Hi, I’m **Sourish Dey**  
 
@@ -14,6 +21,50 @@
 - 🤖 Develop **AI/ML systems** with real-world applications  
 - 🛠️ Design **cloud-native data pipelines & scalable architectures**  
 - 🔍 Perform **deep data analysis, EDA, and predictive modeling**  
+
+---
+
+## 🚀 Tech Stack:
+
+### 👨‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,sql" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,git,github,jenkins" />
+</p>
+
+### 🤖 Data Science & AI
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+### 🗄️ Databases & Big Data
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+---
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sourishdey2005&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourishdey2005&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourishdey2005&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 👀 Visitor Count:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sourishdey2005&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
@@ -51,6 +102,13 @@
 
 ## ⚡ Fun Fact:
 I blend **AI + Finance + Cloud** to build systems that are not just smart—but **production-ready and scalable** 🚀  
+
+---
+
+<!-- 🔥 Optional Snake Animation -->
+<p align="center">
+  <img src="https://github.com/sourishdey2005/sourishdey2005/blob/output/github-contribution-grid-snake.svg" />
+</p> 
 
 
 ## 🌐 Socials:
