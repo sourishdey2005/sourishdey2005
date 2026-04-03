@@ -1,30 +1,55 @@
-<!-- 🔥 Animated Typing Header -->
+<!-- ================= HEADER / AI BANNER ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=SOURISH+DEY;Data+Scientist+%7C+Quant+Finance+%7C+Cloud+Engineer;Building+AI+%2B+Finance+%2B+Scalable+Systems;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=SOURISH%20DEY&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+</p>
+
+<!-- Animated Typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Scientist+%7C+Quant+Finance+%7C+Cloud+Engineer;AI+%2B+Finance+%2B+Scalable+Systems;Building+Production-Ready+Solutions;Always+Learning+%F0%9F%9A%80" />
+</p>
+
+<!-- Glassmorphism Badge Panel -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile-Elite-blue?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-AI%2FFinance%2FCloud-black?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=sourishdey2005&label=Visitors&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
-# 💫 About Me:
-👋 Hi, I’m **Sourish Dey**  
+# 💫 ABOUT ME
+👋 Hi, I’m **SOURISH DEY**  
 
-- 🚀 Passionate about **Data Science, Quantitative Finance, and Cloud Engineering**  
-- 🧠 Strong focus on building **real-world AI/ML systems, financial models, and scalable data pipelines**  
-- ☁️ Currently diving deep into **Cloud Computing, DevOps, and Secure Data Architectures**  
-- 📊 Experienced in **end-to-end Data Analysis, Machine Learning, Time Series Forecasting & Big Data Systems**  
-- ⚡ Exploring advanced domains like **Quantum Computing, Algorithmic Trading, and AI Security**  
-
----
-
-## 💼 What I Do:
-- 📈 Build **quantitative finance models** (Black-Litterman, Monte Carlo, Market Making)  
-- 🤖 Develop **AI/ML systems** with real-world applications  
-- 🛠️ Design **cloud-native data pipelines & scalable architectures**  
-- 🔍 Perform **deep data analysis, EDA, and predictive modeling**  
+- 🚀 Passionate about **Data Science, Quant Finance, Cloud Engineering**  
+- 🧠 Building **AI systems, financial models & scalable pipelines**  
+- ☁️ Working on **Cloud + DevOps + Secure Architectures**  
+- ⚡ Exploring **Quantum Computing, AI Security, Algorithmic Trading**  
 
 ---
 
-## 🚀 Tech Stack:
+# 🧊 GLASSMORPHISM PANEL
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sourishdey2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117cc" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourishdey2005&theme=tokyonight&hide_border=true&background=0d1117cc" height="170"/>
+</p>
+
+---
+
+# 📊 DYNAMIC GRAPHS
+
+### 🔥 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourishdey2005&theme=tokyo-night&bg_color=0d1117&hide_border=true"/>
+</p>
+
+### 📈 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourishdey2005&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🚀 TECH STACK
 
 ### 👨‍💻 Languages
 <p>
@@ -36,78 +61,66 @@
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,git,github,jenkins" />
 </p>
 
-### 🤖 Data Science & AI
+### 🤖 AI / ML
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-### 🗄️ Databases & Big Data
+### 🗄️ Databases
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
 ---
 
-## 📊 GitHub Stats:
+# 💼 PROJECT SHOWCASE
 
+### 📊 Quant Finance
+- 📈 **Black-Litterman Portfolio Studio** – Advanced portfolio optimization  
+- 💹 **Avellaneda-Stoikov Engine** – Market making model with live analytics  
+- 📉 **Monte Carlo Risk Dashboard** – VaR, CVaR simulations  
+
+### 🤖 AI / ML Systems
+- 🧠 **Market Regime Detector** – HMM-based classification  
+- 🔍 **Prompt Security Analyzer** – LLM attack detection  
+- 🧬 **Gene Prediction Model** – CNN-BiLSTM (98% accuracy)  
+
+### ☁️ Cloud & Data Engineering
+- 🛠️ **Enterprise Data Pipelines** – ETL + Automation  
+- 📊 **Uber Data Analytics Platform** – 148K+ records  
+- ⚙️ **Adaptive GPU Scheduler**  
+
+---
+
+# 🌐 CONNECT WITH ME
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourishdey2005&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<a href="https://www.linkedin.com/in/sourish-dey-20b170206/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://github.com/sourishdey2005"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourishdey2005&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 👀 Visitor Count:
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sourishdey2005&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 🌱 Currently Learning:
-- Advanced **Cloud + DevOps (Kubernetes, Terraform, CI/CD)**  
-- **Quantitative Finance & Risk Modeling**  
-- **AI Security & Autonomous Systems**  
-
----
-
-## 💡 Looking to Collaborate On:
-- 📊 Data Science & Analytics Projects  
-- ☁️ Cloud & DevOps Systems  
-- 🔐 Cybersecurity + AI Integration  
-- 💹 Quant Finance / Algorithmic Trading  
-
----
-
-## 🏆 Highlights:
-- 🧠 Built **20+ advanced projects** across AI, Finance, and Systems  
-- 📄 Research in **Deep Learning, IoT Security & Quantum Computing**  
-- 🧪 Multiple **patents filed in AI, Robotics, and Energy Systems**  
-- 📊 Internships across **Data Science, Data Engineering & Cloud**  
-
----
-
-## 📫 Connect With Me:
-- 💼 LinkedIn: [Sourish Dey](https://www.linkedin.com/in/sourish-dey-20b170206/)  
-- 🌐 Portfolio: [My Portfolio](https://sourishdeyportfolio.vercel.app)  
-- 🔗 All Links: [Linktree](https://linktr.ee/Sourishdey)  
-- 📸 Instagram: [@sourish_dey_](https://www.instagram.com/sourish_dey_/)  
+- 🌐 Portfolio: https://sourishdeyportfolio.vercel.app  
+- 🔗 Linktree: https://linktr.ee/Sourishdey  
 - 📧 Email: sourish713321@gmail.com  
 
 ---
 
-## ⚡ Fun Fact:
-I blend **AI + Finance + Cloud** to build systems that are not just smart—but **production-ready and scalable** 🚀  
+# ⚡ ELITE METRICS
+- 🧠 20+ Advanced Projects  
+- 📄 Research in AI, Quantum & IoT Security  
+- 🧪 Multiple Patents Filed  
+- 📊 Internships in Data Science, Cloud & Engineering  
 
 ---
 
-<!-- 🔥 Optional Snake Animation -->
+# 🐍 CONTRIBUTION SNAKE
 <p align="center">
   <img src="https://github.com/sourishdey2005/sourishdey2005/blob/output/github-contribution-grid-snake.svg" />
-</p> 
+</p>
+
+---
+
+# 🚀 FINAL NOTE
+> Building **AI + Finance + Cloud systems** that are scalable, intelligent, and production-ready.
 
 
 ## 🌐 Socials:
