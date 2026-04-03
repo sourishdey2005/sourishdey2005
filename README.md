@@ -34,7 +34,7 @@
 
 ## 👨‍💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,sql,r,bash" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,r,bash,mysql,postgres" />
 </p>
 
 ---
