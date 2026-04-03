@@ -1,5 +1,56 @@
 # 💫 About Me:
-👋 Hi, I’m @sourishdey<br>- 👀 I’m interested in  particularly Data Analysis & Cloud Computing along with various other domains which include  Cybersecurity ,blockchain and AI ML with data science ...<br>- 🌱 I’m currently learning  Cloud Computing along with enhancing its security  and Data sciene ...<br>- 💞️ I’m looking to collaborate on  Data Analysis And Cloud Computing along with Cybersecurity<br>- 📫 How to reach me  linkedin (https://www.linkedin.com/in/sourish-dey-20b170206/)...<br>- 😄 Pronouns:He/Him  ...<br>- ⚡ Fun fact: ... Check my insta (https://www.instagram.com/sourish_dey_/)
+👋 Hi, I’m **Sourish Dey**  
+
+- 🚀 Passionate about **Data Science, Quantitative Finance, and Cloud Engineering**  
+- 🧠 Strong focus on building **real-world AI/ML systems, financial models, and scalable data pipelines**  
+- ☁️ Currently diving deep into **Cloud Computing, DevOps, and Secure Data Architectures**  
+- 📊 Experienced in **end-to-end Data Analysis, Machine Learning, Time Series Forecasting & Big Data Systems**  
+- ⚡ Exploring advanced domains like **Quantum Computing, Algorithmic Trading, and AI Security**  
+
+---
+
+## 💼 What I Do:
+- 📈 Build **quantitative finance models** (Black-Litterman, Monte Carlo, Market Making)  
+- 🤖 Develop **AI/ML systems** with real-world applications  
+- 🛠️ Design **cloud-native data pipelines & scalable architectures**  
+- 🔍 Perform **deep data analysis, EDA, and predictive modeling**  
+
+---
+
+## 🌱 Currently Learning:
+- Advanced **Cloud + DevOps (Kubernetes, Terraform, CI/CD)**  
+- **Quantitative Finance & Risk Modeling**  
+- **AI Security & Autonomous Systems**  
+
+---
+
+## 💡 Looking to Collaborate On:
+- 📊 Data Science & Analytics Projects  
+- ☁️ Cloud & DevOps Systems  
+- 🔐 Cybersecurity + AI Integration  
+- 💹 Quant Finance / Algorithmic Trading  
+
+---
+
+## 🏆 Highlights:
+- 🧠 Built **20+ advanced projects** across AI, Finance, and Systems  
+- 📄 Research in **Deep Learning, IoT Security & Quantum Computing**  
+- 🧪 Multiple **patents filed in AI, Robotics, and Energy Systems**  
+- 📊 Internships across **Data Science, Data Engineering & Cloud**  
+
+---
+
+## 📫 Connect With Me:
+- 💼 LinkedIn: [Sourish Dey](https://www.linkedin.com/in/sourish-dey-20b170206/)  
+- 🌐 Portfolio: [My Portfolio](https://sourishdeyportfolio.vercel.app)  
+- 🔗 All Links: [Linktree](https://linktr.ee/Sourishdey)  
+- 📸 Instagram: [@sourish_dey_](https://www.instagram.com/sourish_dey_/)  
+- 📧 Email: sourish713321@gmail.com  
+
+---
+
+## ⚡ Fun Fact:
+I blend **AI + Finance + Cloud** to build systems that are not just smart—but **production-ready and scalable** 🚀  
 
 
 ## 🌐 Socials:
