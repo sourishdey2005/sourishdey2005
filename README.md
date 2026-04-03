@@ -174,7 +174,7 @@
 # 🧊 DASHBOARD PANEL
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sourishdey2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117cc" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourishdey2005&theme=tokyonight&hide_border=true&background=0d1117cc" height="170"/>
+  
 </p>
 
 ---
