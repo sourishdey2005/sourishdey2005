@@ -180,7 +180,7 @@
 
 ---
 
-# 📊 DYNAMIC GRAPHS
+
 
 ### 🔥 Contribution Graph
 <p align="center">
