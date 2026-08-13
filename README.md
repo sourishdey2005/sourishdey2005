@@ -1,5 +1,3 @@
-Below is the complete replacement README, already integrated with your Sourish Dey profile content.
-
 <!-- =========================================================
      SOURISH DEY — GITHUB PROFILE README
      AI • DATA SCIENCE • QUANT FINANCE • CLOUD
