@@ -487,38 +487,7 @@ Algorithmic Trading              ██████░░░░ 60%
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sourishdey2005&show_icons=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight"
-    width="48%"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourishdey2005&layout=compact&hide_border=true&theme=tokyonight"
-    width="48%"
-    alt="Top Languages"
-  />
-</p>
 
-<!-- ================= STREAK ================= -->
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sourishdey2005&theme=tokyonight&hide_border=true&background=0d1117"
-    width="70%"
-    alt="GitHub Streak"
-  />
-</p>
-
-<!-- ================= TROPHIES ================= -->
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=sourishdey2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
-    width="95%"
-    alt="GitHub Trophies"
-  />
-</p>
 
 <!-- ================= CONTRIBUTION GRAPH ================= -->
 
