@@ -627,14 +627,7 @@ linktr.ee/Sourishdey </a>
 
 </div>
 
-<!-- ================= VISITOR COUNT ================= -->
 
-<p align="center">
-  <img
-    src="https://visitcount.itsvg.in/api?id=sourishdey2005&icon=0&color=1"
-    alt="Profile Visitor Count"
-  />
-</p>
 
 <!--
 =========================================================
